@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npx tsc",
-    "start": "node dist/sortPackage.js",    
+    "sort": "node dist/sortPackage.js",    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
